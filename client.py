@@ -10,7 +10,7 @@ if __name__ == '__main__':
 
 	while True: 
 
-		filename = input('Input filename you want to send: ') 
+		filename = input('Input filename you wanna  to send: ') 
 		try: 
 		# Reading file and sending data to server 
 			fi = open(filename, "r")
